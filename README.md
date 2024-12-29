@@ -1,3 +1,3 @@
 # Matlab
 
-##### matlab学习笔记及脚本
+##### matlab笔记及脚本
